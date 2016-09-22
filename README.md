@@ -1,2 +1,2 @@
-# Operating-systems
+# Operating systems
 Practice
